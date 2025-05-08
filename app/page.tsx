@@ -266,7 +266,7 @@ export default function Home() {
     if (claimBtn) {
       claimBtn.addEventListener("click", () => {
         window.location.href =
-          "https://glstrck.com/aff_c?offer_id=671&aff_id=11848";
+          "https://glstrck.com/aff_c?offer_id=1615&aff_id=11848";
       });
     }
   }, []);
